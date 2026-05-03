@@ -1,8 +1,6 @@
 # Oi, eu sou a Giovanna 👋
 
-🎓 Estudante de Ciência da Computação (5º semestre)
-💻 Focada em desenvolvimento web e banco de dados
-🚀 Em busca de oportunidades na área de tecnologia
+🎓 Estudante de Ciência da Computação (5º semestre) | 💻 Focada em desenvolvimento web e banco de dados | 🚀 Em busca de oportunidades na área de tecnologia
 
 ---
 
