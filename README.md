@@ -7,7 +7,7 @@
 ---
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25">
+  <img src="https://media.tenor.com/9vRAkntogEMAAAAi/rocket.gif" width="25">
   Tecnologias
 </h2>
 
@@ -19,7 +19,7 @@
 ---
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Seedling.png" width="25">
+  <img src="https://media.tenor.com/8f6G7Z4XH9YAAAAi/plant-growing.gif" width="25">
   Atualmente estudando
 </h2>
 
@@ -30,7 +30,7 @@
 ---
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25">
+  <img src="https://media.tenor.com/4toS4QX3s9kAAAAi/email.gif" width="25">
   Contato
 </h2>
 
