@@ -1,16 +1,28 @@
-## Hi there 👋
+# Oi, eu sou a Giovanna 👋
 
-<!--
-**Eklypsik/Eklypsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (5º semestre)
+💻 Focada em desenvolvimento web e banco de dados
+🚀 Em busca de oportunidades na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+* HTML
+* SQL
+* Python
+* Básico de Java
+
+---
+
+## 🌱 Atualmente estudando
+
+* Estrutura de dados
+* Engenharia de Software
+* Sistemas Distribuidos
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (https://www.linkedin.com/in/giovanna-dias-352157324/)
