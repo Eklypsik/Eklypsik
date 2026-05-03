@@ -6,7 +6,10 @@
 
 ---
 
-## 🚀 Tecnologias
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25">
+  Tecnologias
+</h2>
 
 * HTML
 * SQL
@@ -15,14 +18,20 @@
 
 ---
 
-## 🌱 Atualmente estudando
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Seedling.png" width="25">
+  Atualmente estudando
+</h2>
 
 * Estrutura de dados
 * Engenharia de Software
-* Sistemas Distribuidos
+* Sistemas Distribuídos
 
 ---
 
-## 📫 Contato
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25">
+  Contato
+</h2>
 
-* LinkedIn: (https://www.linkedin.com/in/giovanna-dias-352157324/)
+* LinkedIn: https://www.linkedin.com/in/giovanna-dias-352157324/
