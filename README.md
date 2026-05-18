@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=500&lines=Oi,+eu+sou+a+Giovanna+👋" />
 </p>
 
-🎓 Estudante de Ciência da Computação (7º semestre)
-💻 Focada em desenvolvimento web e banco de dados
-🚀 Em busca de oportunidades na área de tecnologia
-
+<ul>
+  <li>🎓Estudante de Ciência da Computação (7º semestre)</li>
+  <li>💻 Focada em desenvolvimento web e banco de dados</li>
+  <li>🚀 Em busca de oportunidades na área de tecnologia</li>
+</ul>
 ---
 
 <h2>
